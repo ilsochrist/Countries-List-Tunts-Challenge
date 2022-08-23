@@ -1,0 +1,11 @@
+{
+  "name": "ilso-tunts-project",
+  "version": "1.0.0",
+  "description": "Converts a html table to excel ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ilso Christ",
+  "license": "ISC"
+}
